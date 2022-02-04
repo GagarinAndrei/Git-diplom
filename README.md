@@ -1,4 +1,4 @@
-![photo](/home/andreigagarin/Netology/Git/img/external-content.duckduckgo.com.jpg)
+![photo](/img/external-content.duckduckgo.com.jpg)
 
 # Andrei Gagarin
 
